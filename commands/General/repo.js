@@ -9,7 +9,7 @@ module.exports = {
         
         let buttonMessaged = {
             image: { url: await botpic() },
-            caption: `Hey ${citel.pushName}\n*This is Pissu Kolama@Pissu Kollah Repo*\n\n*Repo:* https://github.com/Mathiya578/Pissu-Kolama-Pissu-Kollah-\n\n*Whatsapp Group:* https://chat.whatsapp.com/IX3xBGKd9U44gJmdhsHiHp\n\n*Deploy Your Own:*-\PISSU-KOLAMA-PISSU-KOLLAH.herokuapp.com/deploy `,
+            caption: `Hey ${citel.pushName}\n*This is Pissu Kolama@Pissu Kollah Repo*\n\n*Repo:* https://github.com/Mathiya578/Pissu-Kolama-Pissu-Kollah-\n\n*Whatsapp Group:* https://chat.whatsapp.com/IX3xBGKd9U44gJmdhsHiHp\n\n*Deploy Your Own:*-\nSecktorBot.herokuapp.com/deploy `,
             footer: ` ` + tlang().footer,
             headerType: 4,
             contextInfo: {
